@@ -4,7 +4,6 @@
   "description": "A simple clock made with plain JavaScript.",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha -r jsdom-global/register",
     "build": "babel src -d build",
     "lint": "eslint --fix \"{,!(node_modules)/**/}*.js\"",
     "format": "prettier --write \"{,!(node_modules)/**/}*.{js,css,html}\""

@@ -8,9 +8,11 @@ Clone this repository.
 
 ## Usage
 
-CD into root directory.
+CD into `src/` directory.
 
-Open app in the browser.
+Open `index.html` in the browser.
+
+IE 11 friendly.
 
 ## Contributing
 
